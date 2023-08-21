@@ -1,0 +1,4 @@
+name: BattleBoxBMCC
+version: '${project.version}'
+main: me.catholiccatboy.battleboxbmcc.BattleBoxBMCC
+api-version: '1.19'
